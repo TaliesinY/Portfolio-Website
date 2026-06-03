@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 
 const data = {
-  name: "Taliesin Yip Hoi-Lee",
+  name: "Taliesin Yip Joi-Lee",
   tagline: "Full Stack Developer & Engineering Student",
   email: "taliesinyip@gmail.com",
   phone: "416-553-0291",

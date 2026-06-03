@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from "react";
-
+import Particles from "./Particles";
+import "./index.css";
 
 const data = {
   name: "Taliesin Yip Hoi-Lee",
